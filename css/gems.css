@@ -27,7 +27,7 @@
 
 /* Select the image with the class "yellow_diamond" */
 
-/*selector for yellow diamond goes here */ { #yellow_diamond
+/*selector for yellow diamond goes here */  #yellow_diamond {
   position: absolute;
   z-index: 4;
   top: 325px;
@@ -35,7 +35,7 @@
 }
 
 /* Select the image that has ad id of diamond */
-/*selector for diamond goes here */ {
+/*selector for diamond goes here */ .diamond{
   position: absolute;
   z-index: 3;
   top: 300px;
